@@ -2,6 +2,16 @@
 
 > A Vue.js project
 
+## 移动web应用商店
+
+> Vue框架学习总结项目。基本上应用了Vue框架的大多数特性，vue-route的应用
+
+[浏览地址](https://chenc11211.github.io/AppStore/dist/#/main/home/recommend) 使用移动设备或浏览器响应式设计模式查看
+
+#### 动图预览
+
+![预览](https://chenc11211.github.io/AppStore/demo_show.gif)
+
 ## Build Setup
 
 ``` bash
