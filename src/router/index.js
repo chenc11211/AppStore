@@ -76,7 +76,7 @@ export default new Router({
       component: SearchPage
     },
     {
-      path: '/list/:classify',
+      path: '/list/:className',
       name: 'ListPage',
       component: ListPage
     },
